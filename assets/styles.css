@@ -9,3 +9,19 @@
   font-weight: bolder;
   color: #78a787;
 }
+.wrapper {
+  min-height: 100%;
+  margin-bottom: -25px;
+}
+footer {
+  background-color: #78a787;
+}
+.footer,
+.push {
+  height: 50px;
+}
+html,
+body {
+  height: 100%;
+  margin: 0;
+}
