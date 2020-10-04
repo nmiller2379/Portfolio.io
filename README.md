@@ -1,6 +1,6 @@
 # Portfolio
 
-For this web application, I created a portoflio that conists of three pages — an "about me," a "portfolio" and a "contact" page.
+For this web application, I created a portfolio that consists of three pages — an "about me," a "portfolio" and a "contact" page.
 <img src="assets/AboutMe.png" width=50%>
 
 # Installation/Usage
