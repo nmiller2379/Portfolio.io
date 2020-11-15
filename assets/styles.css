@@ -20,8 +20,16 @@ footer {
 .push {
   height: 50px;
 }
+.github {
+  padding-top: 10px;
+  margin: auto;
+  width: 25%;
+}
 html,
 body {
   height: 100%;
   margin: 0;
+}
+#textspacing {
+  padding-top: 50px;
 }
