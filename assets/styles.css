@@ -33,3 +33,11 @@ body {
 #textspacing {
   padding-top: 50px;
 }
+
+.btnspacing {
+  padding-bottom: 25px;
+}
+
+.btncolor {
+  background-color: #78a787;
+}
